@@ -1,0 +1,30 @@
+.class-main{
+    background: dimgrey;
+    position: absolute;
+    width: 70%;
+    height: 80%;
+    padding: 25px;
+}
+.class-caro{
+    position: absolute;
+    background: azure;
+    width: 60%;
+    height: 230px;
+    top: 20px;
+    margin: 0px;
+    padding: 20px;
+}
+
+.class-changed{
+    position: absolute;
+    background: azure;
+    width: 60%;
+    height: 300px;
+    top: 350px;
+    margin: 0px;
+    padding: 20px;
+}
+.class-input{
+    position: absolute;
+    top: 300px;
+}
